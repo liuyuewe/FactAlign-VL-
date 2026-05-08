@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "chart_01036_6771",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01036.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：猫的相关数据是70"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00864_80928",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00864.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：四月的数值是83"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00435_6162",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00435.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：其中南京的数值最高，橙子的数值最低"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00173_6572",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00173.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00173"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00623_69385",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00623.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：1月的数值是95"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00839_77941",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00839.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00839。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00907_55939",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00907.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：1月的数值是35"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00768_23688",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00768.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：1月的数值是87"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01140_55058",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01140.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有4行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01381_93935",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01381.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01381"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01020_15166",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01020.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：广州的相关数据是83"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00375_67374",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00375.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：土豆的数值是38"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00622_59137",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00622.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个折线图chart_00622"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01427_36413",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01427.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：长春的相关数据是11"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01261_65137",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01261.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01261"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00596_94077",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00596.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个折线图chart_"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00240_72401",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00240.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：上海的数值是27"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01010_64658",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01010.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：天津的相关数据是43"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01113_31129",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01113.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01113"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01480_55058",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01480.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有4行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00688_43242",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00688.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：最低点在五月，数值为28"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01271_39303",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01271.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01271"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00672_97508",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00672.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：最低点在5月，数值为28"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00375_54213",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00375.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00375"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00815_67151",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00815.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：一月的数值是43"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00739_27875",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00739.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00739。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00455_51094",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00455.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00455"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01193_4442",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01193.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01193"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01214_14631",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01214.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：表格包含以下列：项目, 西瓜, 土豆, 总计"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00944_50181",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00944.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：六月的数值是40"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01244_14177",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01244.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有5行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01391_89712",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01391.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：成都的相关数据是30"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00496_78240",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00496.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00496。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01444_46711",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01444.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01444"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01252_29237",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01252.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有7行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00184_16119",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00184.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：萝卜的数值是26"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00921_56053",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00921.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：7月的数值是38"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00211_61222",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00211.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00211"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00591_65231",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00591.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：九月的数值是80"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00087_29907",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00087.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：其中郑州的数值最高，鸟的数值最低"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00989_13427",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00989.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：最低点在一月，数值为21"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00960_56525",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00960.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：5月的数值是61"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01411_51066",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01411.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01411"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01155_66792",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01155.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01155"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00061_92292",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00061.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：深圳的数值是85"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00916_1044",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00916.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：整体呈上升趋势"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00781_94077",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00781.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个折线图chart_"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00632_94077",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00632.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个折线图chart_"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01204_20108",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01204.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01204"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00746_45669",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00746.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：9月的数值是62"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00118_3154",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00118.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00118"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00567_7292",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00567.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：一月的数值是26"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01122_44370",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01122.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：沈阳的相关数据是64"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00795_84489",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00795.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：6月的数值是27"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00936_5020",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00936.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00936。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00780_64441",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00780.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：一月的数值是31"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01137_14177",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01137.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有5行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00534_55144",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00534.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：四月的数值是54"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00347_85211",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00347.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：天津的数值是19"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01298_18611",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01298.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01298"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01480_70226",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01480.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：西安的相关数据是85"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01217_29237",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01217.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有7行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01230_40449",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01230.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有8行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01185_29977",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01185.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：武汉的相关数据是22"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00102_88323",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00102.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：看起来生菜的值略高于鸟"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01346_14177",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01346.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有5行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00304_80923",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00304.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：其中济南的数值最高，天津的数值最低"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00809_79075",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00809.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：五月的数值是56"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00456_42005",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00456.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00456"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00449_56216",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00449.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：狗的数值是97"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01097_78200",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01097.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有6行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00577_21330",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00577.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：六月的数值是76"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00961_50561",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00961.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：9月的数值是41"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00588_30356",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00588.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00588。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01338_9235",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01338.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：表格包含以下列：项目, 橙子, 自行车, 总计"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01034_1266",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01034.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01034"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00991_8900",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00991.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：最高点在3月，数值为95"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01450_18008",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01450.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：表格包含以下列：项目, 菠萝, 冰箱, 总计"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00613_54876",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00613.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：3月的数值是91"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00965_2960",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00965.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00965。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00537_13319",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00537.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00537。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00281_80434",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00281.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00281"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00763_87097",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00763.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：3月的数值是75"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00931_32995",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00931.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00931。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01482_23637",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01482.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：上海的相关数据是58"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00889_67707",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00889.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：6月的数值是83"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01289_14177",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01289.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有5行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00298_41752",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00298.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：武汉的数值是55"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00250_6700",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00250.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00250"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00280_18982",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00280.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：菠菜的数值是25"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00721_98402",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00721.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：1月的数值是68"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01444_57016",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01444.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：沈阳的相关数据是6"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01277_68059",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01277.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01277"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00447_12468",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00447.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：西红柿的数值是96"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_00445_83231",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00445.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00445。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00555_33733",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00555.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：最低点在八月，数值为22"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "是"
+      }
+    ]
+  },
+  {
+    "id": "chart_01109_43764",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01109.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个表格数据chart_01109"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00905_85103",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00905.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：00905。"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_01262_55058",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01262.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：共有4行数据"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  },
+  {
+    "id": "chart_00243_81226",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00243.png"
+          },
+          {
+            "type": "text",
+            "text": "判断以下陈述是否与图片内容完全一致，仅回答'是'或'否'。\n陈述：这是一个柱状图chart_00243"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "否"
+      }
+    ]
+  }
+]

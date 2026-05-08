@@ -1,0 +1,3437 @@
+[
+  {
+    "chart_id": "chart_01198",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01198.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01198.json",
+    "vlm_description": "这是一个表格数据chart_01198。 表格包含以下列：项目, 汽车, 青椒, 总计。 济南的相关数据是88。 郑州的相关数据是85。 鸟的相关数据是72。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01198",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1198
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1198
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01084",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01084.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01084.json",
+    "vlm_description": "这是一个表格数据chart_01084。 表格包含以下列：项目, 书籍, 西瓜, 总计。 西安的相关数据是75。 青岛的相关数据是43。 鱼的相关数据是33。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01084",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1084
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1084
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01373",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01373.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01373.json",
+    "vlm_description": "这是一个表格数据chart_01373。 表格包含以下列：项目, 芒果, 梨, 总计。 狗的相关数据是100。 苏州的相关数据是53。 猴子的相关数据是84。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01373",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1373
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1373
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01094",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01094.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01094.json",
+    "vlm_description": "这是一个表格数据chart_01094。 表格包含以下列：项目, 芒果, 茄子, 总计。 大象的相关数据是93。 北京的相关数据是57。 猴子的相关数据是65。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01094",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1094
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1094
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00553",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00553.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00553.json",
+    "vlm_description": "这是一个折线图chart_00553。 五月的数值是98。 二月的数值是61。 三月的数值是43。 十二月的数值是23。 七月的数值是27。 六月的数值是58。 十一月的数值是69。 一月的数值是32。 整体呈下降趋势。 最高点在五月，数值为98。 最低点在十二月，数值为23。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00293",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00293.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00293.json",
+    "vlm_description": "这是一个柱状图chart_00293。 猫的数值是82。 重庆的数值是82。 郑州的数值是56。 生菜的数值是50。 沈阳的数值是64。 西安的数值是31。 梨的数值是10。 其中猫的数值最高，梨的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00293",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            293
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            293
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01196",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01196.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01196.json",
+    "vlm_description": "这是一个表格数据chart_01196。 表格包含以下列：项目, 白菜, 苹果, 总计。 杭州的相关数据是10。 上海的相关数据是29。 苏州的相关数据是91。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01196",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1196
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1196
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00179",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00179.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00179.json",
+    "vlm_description": "这是一个柱状图chart_00179。 电脑的数值是62。 菠菜的数值是96。 冰箱的数值是73。 沈阳的数值是27。 西瓜的数值是91。 电视的数值是48。 手机的数值是40。 其中菠菜的数值最高，沈阳的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00179",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            179
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            179
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00284",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00284.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00284.json",
+    "vlm_description": "这是一个柱状图chart_00284。 兔子的数值是79。 书籍的数值是55。 手机的数值是13。 菠萝的数值是76。 服装的数值是57。 青椒的数值是83。 其中兔子的数值最高，手机的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00284",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            284
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            284
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01493",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01493.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01493.json",
+    "vlm_description": "这是一个表格数据chart_01493。 表格包含以下列：项目, 冰箱, 空调, 总计。 狗的相关数据是36。 青岛的相关数据是29。 西安的相关数据是54。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01493",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1493
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1493
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01221",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01221.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01221.json",
+    "vlm_description": "这是一个表格数据chart_01221。 表格包含以下列：项目, 洋葱, 茄子, 总计。 南京的相关数据是17。 长春的相关数据是92。 沈阳的相关数据是20。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01221",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1221
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1221
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00959",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00959.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00959.json",
+    "vlm_description": "这是一个折线图chart_00959。 1月的数值是82。 2月的数值是28。 3月的数值是43。 4月的数值是88。 5月的数值是61。 6月的数值是41。 7月的数值是52。 整体呈下降趋势。 最高点在4月，数值为88。 最低点在2月，数值为28。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01405",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01405.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01405.json",
+    "vlm_description": "这是一个表格数据chart_01405。 表格包含以下列：项目, 洗衣机, 汽车, 总计。 鸟的相关数据是24。 青岛的相关数据是88。 杭州的相关数据是62。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01405",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1405
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1405
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01141",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01141.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01141.json",
+    "vlm_description": "这是一个表格数据chart_01141。 表格包含以下列：项目, 香蕉, 梨, 总计。 猫的相关数据是91。 老虎的相关数据是47。 武汉的相关数据是37。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01141",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1141
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1141
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00947",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00947.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00947.json",
+    "vlm_description": "这是一个折线图chart_00947。 1月的数值是82。 2月的数值是42。 3月的数值是84。 4月的数值是40。 5月的数值是76。 6月的数值是27。 7月的数值是99。 8月的数值是24。 整体呈下降趋势。 最高点在7月，数值为99。 最低点在6月，数值为23。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00055",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00055.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00055.json",
+    "vlm_description": "这是一个柱状图chart_00055。 郑州的数值是19。 草莓的数值是30。 白菜的数值是10。 茄子的数值是62。 萝卜的数值是72。 成都的数值是98。 其中成都的数值最高，白菜的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00055",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            55
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            55
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00229",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00229.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00229.json",
+    "vlm_description": "这是一个柱状图chart_00229。 手机的数值是66。 芒果的数值是63。 济南的数值是31。 苹果的数值是62。 葡萄的数值是73。 兔子的数值是58。 其中葡萄的数值最高，济南的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00229",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            229
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            229
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00470",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00470.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00470.json",
+    "vlm_description": "这是一个柱状图chart_00470。 深圳的数值是19。 哈尔滨的数值是38。 猫的数值是24。 萝卜的数值是94。 青岛的数值是28。 生菜的数值是98。 香蕉的数值是39。 大连的数值是49。 其中萝卜的数值最高，深圳的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00470",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            470
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            470
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00190",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00190.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00190.json",
+    "vlm_description": "这是一个柱状图chart_00190。 杭州的数值是41。 西红柿的数值是48。 老虎的数值是14。 芒果的数值是67。 大连的数值是36。 冰箱的数值是63。 苏州的数值是21。 其中芒果的数值最高，老虎的数值最低。 看起来老虎的值略高于苏州。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00190",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            190
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            190
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01311",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01311.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01311.json",
+    "vlm_description": "这是一个表格数据chart_01311。 表格包含以下列：项目, 桃子, 草莓, 总计。 哈尔滨的相关数据是17。 成都的相关数据是94。 鸟的相关数据是31。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01311",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1311
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1311
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00866",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00866.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00866.json",
+    "vlm_description": "这是一个折线图chart_00866。 1月的数值是74。 2月的数值是71。 3月的数值是22。 4月的数值是43。 5月的数值是52。 6月的数值是30。 7月的数值是75。 8月的数值是34。 9月的数值是44。 10月的数值是93。 11月的数值是53。 整体呈下降趋势。 最高点在10月，数值为93。 最低点在3月，数值为22。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00430",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00430.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00430.json",
+    "vlm_description": "这是一个柱状图chart_00430。 苏州的数值是93。 香蕉的数值是26。 北京的数值是5。 重庆的数值是32。 橙子的数值是91。 茄子的数值是16。 沈阳的数值是49。 其中苏州的数值最高，北京的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01100",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01100.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01100.json",
+    "vlm_description": "这是一个表格数据chart_01100。 表格包含以下列：项目, 汽车, 电视, 总计。 大连的相关数据是48。 猫的相关数据是48。 狮子的相关数据是61。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01100",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1100
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1100
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00256",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00256.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00256.json",
+    "vlm_description": "这是一个柱状图chart_00256。 老虎的数值是55。 自行车的数值是34。 长沙的数值是31。 桃子的数值是61。 猫的数值是12。 上海的数值是39。 其中桃子的数值最高，猫的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00256",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            256
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            256
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00705",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00705.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00705.json",
+    "vlm_description": "这是一个折线图chart_00705。 1月的数值是48。 2月的数值是69。 3月的数值是87。 4月的数值是31。 5月的数值是64。 6月的数值是79。 7月的数值是79。 8月的数值是88。 9月的数值是79。 整体呈上升趋势。 最高点在8月，数值为88。 最低点在4月，数值为31。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01011",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01011.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01011.json",
+    "vlm_description": "这是一个表格数据chart_01011。 表格包含以下列：项目, 空调, 葡萄, 总计。 鱼的相关数据是36。 兔子的相关数据是82。 熊猫的相关数据是103。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01011",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1011
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1011
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01183",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01183.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01183.json",
+    "vlm_description": "这是一个表格数据chart_01183。 表格包含以下列：项目, 土豆, 手机, 总计。 成都的相关数据是97。 猴子的相关数据是40。 上海的相关数据是104。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01183",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1183
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1183
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00450",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00450.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00450.json",
+    "vlm_description": "这是一个柱状图chart_00450。 青岛的数值是89。 杭州的数值是57。 长沙的数值是96。 电视的数值是98。 书籍的数值是9。 菠菜的数值是34。 狮子的数值是68。 其中电视的数值最高，书籍的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01162",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01162.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01162.json",
+    "vlm_description": "这是一个表格数据chart_01162。 表格包含以下列：项目, 白菜, 菠菜, 总计。 天津的相关数据是25。 熊猫的相关数据是34。 郑州的相关数据是79。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01162",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1162
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1162
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00458",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00458.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00458.json",
+    "vlm_description": "这是一个柱状图chart_00458。 南京的数值是77。 苏州的数值是38。 土豆的数值是45。 西安的数值是42。 其中南京的数值最高，西安的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00458",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            458
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            458
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00187",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00187.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00187.json",
+    "vlm_description": "这是一个柱状图chart_00187。 兔子的数值是32。 老虎的数值是81。 萝卜的数值是31。 上海的数值是78。 天津的数值是46。 杭州的数值是27。 沈阳的数值是33。 苏州的数值是50。 其中老虎的数值最高，杭州的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00187",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            187
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            187
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00878",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00878.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00878.json",
+    "vlm_description": "这是一个折线图chart_00878。 1月的数值是97。 2月的数值是80。 3月的数值是23。 4月的数值是76。 5月的数值是81。 6月的数值是27。 7月的数值是57。 8月的数值是70。 9月的数值是25。 10月的数值是66。 11月的数值是71。 整体呈下降趋势。 最高点在1月，数值为97。 最低点在3月，数值为23。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_00878",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            878
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            878
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01467",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01467.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01467.json",
+    "vlm_description": "这是一个表格数据chart_01467。 表格包含以下列：项目, 芒果, 梨, 总计。 郑州的相关数据是77。 深圳的相关数据是94。 武汉的相关数据是16。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01467",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1467
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1467
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00452",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00452.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00452.json",
+    "vlm_description": "这是一个柱状图chart_00452。 熊猫的数值是34。 狮子的数值是18。 大连的数值是12。 苏州的数值是39。 香蕉的数值是76。 菠菜的数值是92。 其中菠菜的数值最高，大连的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00452",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            452
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            452
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01488",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01488.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01488.json",
+    "vlm_description": "这是一个表格数据chart_01488。 表格包含以下列：项目, 黄瓜, 菠萝, 总计。 猴子的相关数据是55。 武汉的相关数据是60。 成都的相关数据是38。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01488",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1488
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1488
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00131",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00131.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00131.json",
+    "vlm_description": "这是一个柱状图chart_00131。 自行车的数值是61。 青椒的数值是50。 济南的数值是15。 鱼的数值是61。 哈尔滨的数值是22。 其中自行车的数值最高，济南的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00131",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            131
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            131
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00647",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00647.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00647.json",
+    "vlm_description": "这是一个折线图chart_00647。 一月的数值是20。 二月的数值是51。 十一月的数值是58。 九月的数值是25。 五月的数值是86。 三月的数值是57。 八月的数值是88。 十月的数值是76。 四月的数值是37。 七月的数值是93。 整体呈上升趋势。 最高点在七月，数值为93。 最低点在一月，数值为20。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01222",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01222.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01222.json",
+    "vlm_description": "这是一个表格数据chart_01222。 表格包含以下列：项目, 汽车, 梨, 总计。 济南的相关数据是93。 天津的相关数据是50。 老虎的相关数据是30。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01222",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1222
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1222
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00136",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00136.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00136.json",
+    "vlm_description": "这是一个柱状图chart_00136。 长春的数值是83。 冰箱的数值是99。 兔子的数值是24。 梨的数值是34。 电视的数值是12。 长沙的数值是60。 茄子的数值是50。 橙子的数值是63。 其中冰箱的数值最高，电视的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00136",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            136
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            136
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01117",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01117.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01117.json",
+    "vlm_description": "这是一个表格数据chart_01117。 表格包含以下列：项目, 橙子, 青椒, 总计。 哈尔滨的相关数据是39。 南京的相关数据是8。 鸟的相关数据是54。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01117",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1117
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1117
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00433",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00433.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00433.json",
+    "vlm_description": "这是一个柱状图chart_00433。 梨的数值是80。 哈尔滨的数值是31。 熊猫的数值是66。 白菜的数值是50。 沈阳的数值是84。 鱼的数值是15。 其中沈阳的数值最高，鱼的数值最低。 看起来鱼的值略高于梨。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00433",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            433
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            433
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00929",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00929.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00929.json",
+    "vlm_description": "这是一个折线图chart_00929。 十二月的数值是95。 八月的数值是32。 九月的数值是94。 七月的数值是32。 十月的数值是35。 一月的数值是50。 五月的数值是66。 十一月的数值是94。 整体呈下降趋势。 最高点在十二月，数值为95。 最低点在八月，数值为32。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01494",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01494.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01494.json",
+    "vlm_description": "这是一个表格数据chart_01494。 表格包含以下列：项目, 电脑, 草莓, 总计。 郑州的相关数据是67。 济南的相关数据是60。 鸟的相关数据是57。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01494",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1494
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1494
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01331",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01331.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01331.json",
+    "vlm_description": "这是一个表格数据chart_01331。 表格包含以下列：项目, 服装, 自行车, 总计。 鱼的相关数据是53。 大连的相关数据是98。 南京的相关数据是96。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01331",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1331
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1331
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00515",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00515.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00515.json",
+    "vlm_description": "这是一个折线图chart_00515。 1月的数值是43。 2月的数值是23。 3月的数值是30。 4月的数值是78。 5月的数值是81。 6月的数值是78。 整体呈上升趋势。 最高点在5月，数值为81。 最低点在2月，数值为23。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_00515",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            515
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            515
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00601",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00601.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00601.json",
+    "vlm_description": "这是一个折线图chart_00601。 1月的数值是79。 2月的数值是73。 3月的数值是63。 4月的数值是71。 5月的数值是44。 6月的数值是70。 7月的数值是24。 8月的数值是21。 9月的数值是52。 10月的数值是38。 11月的数值是31。 整体呈下降趋势。 最高点在1月，数值为79。 最低点在8月，数值为21。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00778",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00778.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00778.json",
+    "vlm_description": "这是一个折线图chart_00778。 1月的数值是90。 2月的数值是81。 3月的数值是36。 4月的数值是51。 5月的数值是25。 6月的数值是33。 7月的数值是24。 8月的数值是87。 9月的数值是84。 10月的数值是48。 整体呈下降趋势。 最高点在1月，数值为90。 最低点在7月，数值为24。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01400",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01400.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01400.json",
+    "vlm_description": "这是一个表格数据chart_01400。 表格包含以下列：项目, 草莓, 汽车, 总计。 杭州的相关数据是22。 猴子的相关数据是19。 鱼的相关数据是47。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01400",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1400
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1400
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01286",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01286.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01286.json",
+    "vlm_description": "这是一个表格数据chart_01286。 表格包含以下列：项目, 冰箱, 萝卜, 总计。 南京的相关数据是26。 熊猫的相关数据是80。 猫的相关数据是47。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01286",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1286
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1286
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00697",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00697.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00697.json",
+    "vlm_description": "这是一个折线图chart_00697。 十月的数值是59。 十二月的数值是21。 一月的数值是65。 八月的数值是56。 十一月的数值是70。 九月的数值是84。 三月的数值是44。 七月的数值是60。 整体呈上升趋势。 最高点在九月，数值为84。 最低点在十二月，数值为21。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00789",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00789.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00789.json",
+    "vlm_description": "这是一个折线图chart_00789。 1月的数值是88。 2月的数值是26。 3月的数值是59。 4月的数值是24。 5月的数值是89。 6月的数值是64。 7月的数值是23。 整体呈下降趋势。 最高点在5月，数值为89。 最低点在7月，数值为23。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00052",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00052.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00052.json",
+    "vlm_description": "这是一个柱状图chart_00052。 菠菜的数值是11。 黄瓜的数值是100。 鱼的数值是78。 萝卜的数值是26。 生菜的数值是45。 其中黄瓜的数值最高，菠菜的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00052",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            52
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            52
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01317",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01317.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01317.json",
+    "vlm_description": "这是一个表格数据chart_01317。 表格包含以下列：项目, 菠菜, 服装, 总计。 青岛的相关数据是10。 苏州的相关数据是82。 长沙的相关数据是23。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01317",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1317
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1317
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00207",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00207.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00207.json",
+    "vlm_description": "这是一个柱状图chart_00207。 洋葱的数值是19。 深圳的数值是73。 西瓜的数值是68。 青椒的数值是75。 青岛的数值是56。 武汉的数值是17。 天津的数值是73。 其中青椒的数值最高，武汉的数值最低。 看起来武汉的值略高于武汉。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00207",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            207
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            207
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01457",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01457.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01457.json",
+    "vlm_description": "这是一个表格数据chart_01457。 表格包含以下列：项目, 芒果, 苹果, 总计。 南京的相关数据是31。 长沙的相关数据是36。 杭州的相关数据是75。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01457",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1457
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1457
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00549",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00549.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00549.json",
+    "vlm_description": "这是一个折线图chart_00549。 1月的数值是77。 2月的数值是39。 3月的数值是61。 4月的数值是31。 5月的数值是101。 6月的数值是99。 7月的数值是72。 8月的数值是69。 9月的数值是53。 整体呈下降趋势。 最高点在5月，数值为99。 最低点在4月，数值为31。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00759",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00759.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00759.json",
+    "vlm_description": "这是一个折线图chart_00759。 九月的数值是33。 八月的数值是62。 一月的数值是99。 二月的数值是32。 十月的数值是50。 三月的数值是92。 整体呈上升趋势。 最高点在一月，数值为96。 最低点在二月，数值为32。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00742",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00742.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00742.json",
+    "vlm_description": "这是一个折线图chart_00742。 七月的数值是33。 四月的数值是26。 五月的数值是51。 十一月的数值是34。 十二月的数值是48。 二月的数值是38。 十月的数值是26。 三月的数值是24。 九月的数值是93。 六月的数值是54。 八月的数值是50。 整体呈上升趋势。 最高点在九月，数值为93。 最低点在三月，数值为24。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00741",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00741.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00741.json",
+    "vlm_description": "这是一个折线图chart_00741。 九月的数值是75。 二月的数值是85。 六月的数值是62。 七月的数值是26。 四月的数值是76。 十一月的数值是54。 八月的数值是70。 五月的数值是32。 整体呈下降趋势。 最高点在二月，数值为85。 最低点在七月，数值为26。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00210",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00210.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00210.json",
+    "vlm_description": "这是一个柱状图chart_00210。 成都的数值是35。 大象的数值是47。 苹果的数值是82。 鱼的数值是48。 其中苹果的数值最高，成都的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00210",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            210
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            210
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00199",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00199.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00199.json",
+    "vlm_description": "这是一个柱状图chart_00199。 芒果的数值是48。 狗的数值是27。 鱼的数值是54。 自行车的数值是27。 其中鱼的数值最高，狗的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00199",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            199
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            199
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00467",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00467.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00467.json",
+    "vlm_description": "这是一个柱状图chart_00467。 洋葱的数值是78。 长沙的数值是88。 沈阳的数值是55。 汽车的数值是28。 鱼的数值是11。 芒果的数值是27。 其中长沙的数值最高，鱼的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00467",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            467
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            467
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00539",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00539.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00539.json",
+    "vlm_description": "这是一个折线图chart_00539。 1月的数值是89。 2月的数值是95。 3月的数值是53。 4月的数值是50。 5月的数值是58。 6月的数值是74。 整体呈下降趋势。 最高点在2月，数值为95。 最低点在4月，数值为50。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00014",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00014.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00014.json",
+    "vlm_description": "这是一个柱状图chart_00014。 黄瓜的数值是80。 西瓜的数值是39。 猫的数值是85。 香蕉的数值是38。 西安的数值是10。 其中猫的数值最高，西安的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00014",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            14
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            14
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00941",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00941.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00941.json",
+    "vlm_description": "这是一个折线图chart_00941。 1月的数值是90。 2月的数值是51。 3月的数值是79。 4月的数值是54。 5月的数值是93。 6月的数值是30。 7月的数值是78。 整体呈下降趋势。 最高点在5月，数值为93。 最低点在6月，数值为26。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00143",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00143.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00143.json",
+    "vlm_description": "这是一个柱状图chart_00143。 自行车的数值是16。 橙子的数值是52。 苹果的数值是46。 生菜的数值是68。 武汉的数值是92。 南京的数值是79。 其中武汉的数值最高，自行车的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00143",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            143
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            143
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01469",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01469.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01469.json",
+    "vlm_description": "这是一个表格数据chart_01469。 表格包含以下列：项目, 苹果, 白菜, 总计。 沈阳的相关数据是70。 天津的相关数据是13。 深圳的相关数据是73。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01469",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1469
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1469
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00089",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00089.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00089.json",
+    "vlm_description": "这是一个柱状图chart_00089。 服装的数值是99。 郑州的数值是49。 冰箱的数值是53。 沈阳的数值是54。 洋葱的数值是13。 香蕉的数值是33。 萝卜的数值是28。 空调的数值是82。 其中服装的数值最高，洋葱的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00089",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            89
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            89
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00920",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00920.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00920.json",
+    "vlm_description": "这是一个折线图chart_00920。 1月的数值是39。 2月的数值是35。 3月的数值是90。 4月的数值是57。 5月的数值是36。 6月的数值是64。 7月的数值是59。 整体呈上升趋势。 最高点在3月，数值为90。 最低点在1月，数值为34。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00779",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00779.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00779.json",
+    "vlm_description": "这是一个折线图chart_00779。 五月的数值是97。 四月的数值是68。 一月的数值是22。 十月的数值是90。 九月的数值是81。 七月的数值是26。 二月的数值是69。 十二月的数值是68。 整体呈下降趋势。 最高点在五月，数值为97。 最低点在一月，数值为22。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01131",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01131.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01131.json",
+    "vlm_description": "这是一个表格数据chart_01131。 表格包含以下列：项目, 手机, 白菜, 总计。 广州的相关数据是56。 南京的相关数据是77。 郑州的相关数据是58。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01131",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1131
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1131
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01437",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01437.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01437.json",
+    "vlm_description": "这是一个表格数据chart_01437。 表格包含以下列：项目, 冰箱, 菠萝, 总计。 青岛的相关数据是75。 深圳的相关数据是75。 老虎的相关数据是23。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01437",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1437
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1437
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00822",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00822.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00822.json",
+    "vlm_description": "这是一个折线图chart_00822。 1月的数值是73。 2月的数值是22。 3月的数值是21。 4月的数值是89。 5月的数值是97。 6月的数值是39。 7月的数值是32。 8月的数值是95。 9月的数值是70。 10月的数值是44。 11月的数值是97。 整体呈上升趋势。 最高点在5月，数值为97。 最低点在3月，数值为21。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00319",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00319.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00319.json",
+    "vlm_description": "这是一个柱状图chart_00319。 萝卜的数值是35。 大连的数值是40。 长沙的数值是40。 土豆的数值是43。 上海的数值是36。 书籍的数值是39。 其中土豆的数值最高，萝卜的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00319",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            319
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            319
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00286",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00286.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00286.json",
+    "vlm_description": "这是一个柱状图chart_00286。 杭州的数值是65。 冰箱的数值是92。 沈阳的数值是19。 自行车的数值是97。 大连的数值是29。 其中自行车的数值最高，沈阳的数值最低。 看起来沈阳的值略高于大连。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00286",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            286
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            286
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00543",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00543.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00543.json",
+    "vlm_description": "这是一个折线图chart_00543。 七月的数值是33。 十二月的数值是80。 二月的数值是47。 十月的数值是77。 一月的数值是29。 四月的数值是64。 整体呈上升趋势。 最高点在十二月，数值为80。 最低点在一月，数值为29。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00782",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00782.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00782.json",
+    "vlm_description": "这是一个折线图chart_00782。 1月的数值是29。 2月的数值是27。 3月的数值是36。 4月的数值是83。 5月的数值是43。 6月的数值是48。 7月的数值是25。 整体呈下降趋势。 最高点在4月，数值为76。 最低点在7月，数值为25。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01044",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01044.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01044.json",
+    "vlm_description": "这是一个表格数据chart_01044。 表格包含以下列：项目, 草莓, 书籍, 总计。 狗的相关数据是73。 西安的相关数据是60。 鸟的相关数据是41。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01044",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1044
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1044
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01237",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01237.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01237.json",
+    "vlm_description": "这是一个表格数据chart_01237。 表格包含以下列：项目, 萝卜, 电脑, 总计。 鸟的相关数据是86。 济南的相关数据是86。 狮子的相关数据是84。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01237",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1237
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1237
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01479",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01479.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01479.json",
+    "vlm_description": "这是一个表格数据chart_01479。 表格包含以下列：项目, 草莓, 西瓜, 总计。 鸟的相关数据是11。 广州的相关数据是31。 鱼的相关数据是72。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01479",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1479
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1479
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01463",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01463.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01463.json",
+    "vlm_description": "这是一个表格数据chart_01463。 表格包含以下列：项目, 生菜, 香蕉, 总计。 鱼的相关数据是93。 沈阳的相关数据是69。 北京的相关数据是45。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01463",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1463
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1463
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00062",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00062.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00062.json",
+    "vlm_description": "这是一个柱状图chart_00062。 狮子的数值是90。 自行车的数值是87。 沈阳的数值是40。 上海的数值是100。 菠萝的数值是30。 香蕉的数值是49。 其中上海的数值最高，菠萝的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00062",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            62
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            62
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00164",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00164.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00164.json",
+    "vlm_description": "这是一个柱状图chart_00164。 鱼的数值是94。 葡萄的数值是72。 重庆的数值是12。 天津的数值是10。 郑州的数值是78。 汽车的数值是80。 北京的数值是64。 其中鱼的数值最高，天津的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00164",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            164
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            164
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00334",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00334.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00334.json",
+    "vlm_description": "这是一个柱状图chart_00334。 北京的数值是74。 杭州的数值是48。 苹果的数值是11。 沈阳的数值是65。 上海的数值是47。 哈尔滨的数值是86。 其中哈尔滨的数值最高，苹果的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00334",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            334
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            334
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01310",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01310.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01310.json",
+    "vlm_description": "这是一个表格数据chart_01310。 表格包含以下列：项目, 苹果, 芒果, 总计。 成都的相关数据是91。 熊猫的相关数据是11。 青岛的相关数据是37。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01310",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1310
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1310
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00436",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00436.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00436.json",
+    "vlm_description": "这是一个柱状图chart_00436。 菠萝的数值是79。 深圳的数值是74。 芒果的数值是38。 重庆的数值是69。 鱼的数值是90。 其中鱼的数值最高，芒果的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00436",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            436
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            436
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01210",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01210.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01210.json",
+    "vlm_description": "这是一个表格数据chart_01210。 表格包含以下列：项目, 青椒, 汽车, 总计。 哈尔滨的相关数据是61。 猫的相关数据是41。 鱼的相关数据是100。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01210",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1210
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1210
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00328",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00328.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00328.json",
+    "vlm_description": "这是一个柱状图chart_00328。 草莓的数值是59。 白菜的数值是50。 猫的数值是93。 黄瓜的数值是47。 其中猫的数值最高，黄瓜的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00665",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00665.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00665.json",
+    "vlm_description": "这是一个折线图chart_00665。 1月的数值是85。 2月的数值是43。 3月的数值是51。 4月的数值是55。 5月的数值是38。 6月的数值是59。 7月的数值是51。 整体呈下降趋势。 最高点在1月，数值为85。 最低点在5月，数值为34。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_00665",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            665
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            665
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00235",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00235.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00235.json",
+    "vlm_description": "这是一个柱状图chart_00235。 黄瓜的数值是75。 成都的数值是97。 葡萄的数值是70。 冰箱的数值是77。 兔子的数值是40。 电视的数值是70。 深圳的数值是48。 熊猫的数值是29。 其中成都的数值最高，熊猫的数值最低。 看起来熊猫的值略高于冰箱。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00235",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            235
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            235
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00115",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00115.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00115.json",
+    "vlm_description": "这是一个柱状图chart_00115。 空调的数值是44。 长春的数值是25。 葡萄的数值是57。 服装的数值是65。 苏州的数值是61。 猫的数值是66。 其中猫的数值最高，长春的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00115",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            115
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            115
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00547",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00547.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00547.json",
+    "vlm_description": "这是一个折线图chart_00547。 1月的数值是82。 2月的数值是24。 3月的数值是43。 4月的数值是90。 5月的数值是64。 6月的数值是28。 7月的数值是25。 整体呈下降趋势。 最高点在4月，数值为90。 最低点在2月，数值为20。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00818",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00818.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00818.json",
+    "vlm_description": "这是一个折线图chart_00818。 八月的数值是72。 七月的数值是28。 四月的数值是62。 三月的数值是65。 十月的数值是94。 十一月的数值是28。 六月的数值是26。 一月的数值是86。 九月的数值是50。 五月的数值是66。 十二月的数值是88。 二月的数值是47。 整体呈下降趋势。 最高点在十月，数值为90。 最低点在六月，数值为26。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00225",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00225.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00225.json",
+    "vlm_description": "这是一个柱状图chart_00225。 鱼的数值是84。 青岛的数值是22。 郑州的数值是53。 猴子的数值是48。 其中鱼的数值最高，青岛的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00225",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            225
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            225
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01134",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01134.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01134.json",
+    "vlm_description": "这是一个表格数据chart_01134。 表格包含以下列：项目, 桃子, 空调, 总计。 上海的相关数据是25。 南京的相关数据是77。 狮子的相关数据是81。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01134",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1134
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1134
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01430",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01430.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01430.json",
+    "vlm_description": "这是一个表格数据chart_01430。 表格包含以下列：项目, 服装, 洗衣机, 总计。 狗的相关数据是28。 沈阳的相关数据是73。 长沙的相关数据是44。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01430",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1430
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1430
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00940",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00940.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00940.json",
+    "vlm_description": "这是一个折线图chart_00940。 六月的数值是61。 五月的数值是51。 七月的数值是88。 十二月的数值是94。 九月的数值是36。 二月的数值是32。 三月的数值是84。 十一月的数值是80。 八月的数值是88。 一月的数值是65。 四月的数值是33。 整体呈下降趋势。 最高点在十二月，数值为94。 最低点在二月，数值为32。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01302",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01302.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01302.json",
+    "vlm_description": "这是一个表格数据chart_01302。 表格包含以下列：项目, 汽车, 冰箱, 总计。 大象的相关数据是33。 猴子的相关数据是93。 猫的相关数据是90。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01302",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1302
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1302
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00776",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00776.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00776.json",
+    "vlm_description": "这是一个折线图chart_00776。 1月的数值是71。 2月的数值是99。 3月的数值是27。 4月的数值是89。 5月的数值是34。 6月的数值是94。 7月的数值是80。 8月的数值是53。 9月的数值是23。 10月的数值是24。 整体呈下降趋势。 最高点在2月，数值为99。 最低点在9月，数值为23。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00860",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00860.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00860.json",
+    "vlm_description": "这是一个折线图chart_00860。 1月的数值是71。 2月的数值是74。 3月的数值是26。 4月的数值是58。 5月的数值是74。 6月的数值是53。 7月的数值是34。 8月的数值是97。 9月的数值是77。 整体呈上升趋势。 最高点在8月，数值为97。 最低点在3月，数值为26。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01301",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01301.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01301.json",
+    "vlm_description": "这是一个表格数据chart_01301。 表格包含以下列：项目, 草莓, 黄瓜, 总计。 狮子的相关数据是50。 苏州的相关数据是12。 成都的相关数据是61。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01301",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1301
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1301
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01099",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01099.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01099.json",
+    "vlm_description": "这是一个表格数据chart_01099。 表格包含以下列：项目, 草莓, 菠菜, 总计。 武汉的相关数据是84。 西安的相关数据是16。 重庆的相关数据是76。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01099",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1099
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1099
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00502",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00502.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00502.json",
+    "vlm_description": "这是一个折线图chart_00502。 1月的数值是65。 2月的数值是56。 3月的数值是45。 4月的数值是30。 5月的数值是73。 6月的数值是67。 7月的数值是43。 整体呈下降趋势。 最高点在5月，数值为73。 最低点在4月，数值为30。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01487",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01487.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01487.json",
+    "vlm_description": "这是一个表格数据chart_01487。 表格包含以下列：项目, 青椒, 黄瓜, 总计。 长春的相关数据是46。 杭州的相关数据是60。 上海的相关数据是77。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01487",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1487
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1487
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00394",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00394.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00394.json",
+    "vlm_description": "这是一个柱状图chart_00394。 书籍的数值是71。 草莓的数值是65。 狮子的数值是29。 广州的数值是34。 香蕉的数值是53。 其中草莓的数值最高，狮子的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00394",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            394
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            394
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00736",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00736.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00736.json",
+    "vlm_description": "这是一个折线图chart_00736。 十月的数值是36。 七月的数值是60。 五月的数值是38。 三月的数值是94。 九月的数值是72。 十二月的数值是77。 四月的数值是35。 一月的数值是86。 整体呈上升趋势。 最高点在三月，数值为94。 最低点在四月，数值为35。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00314",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00314.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00314.json",
+    "vlm_description": "这是一个柱状图chart_00314。 茄子的数值是61。 苏州的数值是55。 苹果的数值是95。 白菜的数值是60。 草莓的数值是61。 洋葱的数值是85。 其中苹果的数值最高，苏州的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00314",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            314
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            314
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01267",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01267.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01267.json",
+    "vlm_description": "这是一个表格数据chart_01267。 表格包含以下列：项目, 电脑, 草莓, 总计。 熊猫的相关数据是17。 苏州的相关数据是11。 大连的相关数据是17。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01267",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1267
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1267
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00542",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00542.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00542.json",
+    "vlm_description": "这是一个折线图chart_00542。 五月的数值是51。 十一月的数值是33。 十月的数值是68。 三月的数值是86。 七月的数值是94。 十二月的数值是44。 六月的数值是66。 整体呈上升趋势。 最高点在七月，数值为94。 最低点在十一月，数值为33。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01483",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01483.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01483.json",
+    "vlm_description": "这是一个表格数据chart_01483。 表格包含以下列：项目, 电脑, 菠萝, 总计。 西安的相关数据是65。 狮子的相关数据是22。 沈阳的相关数据是20。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01483",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1483
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1483
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00147",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00147.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00147.json",
+    "vlm_description": "这是一个柱状图chart_00147。 天津的数值是88。 书籍的数值是38。 菠菜的数值是38。 鱼的数值是27。 其中天津的数值最高，鱼的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00147",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            147
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            147
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00327",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00327.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00327.json",
+    "vlm_description": "这是一个柱状图chart_00327。 兔子的数值是90。 重庆的数值是28。 菠菜的数值是31。 大象的数值是91。 其中大象的数值最高，重庆的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00327",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            327
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            327
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00094",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00094.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00094.json",
+    "vlm_description": "这是一个柱状图chart_00094。 成都的数值是15。 冰箱的数值是65。 郑州的数值是12。 电脑的数值是68。 鸟的数值是19。 西瓜的数值是50。 猴子的数值是74。 大连的数值是64。 其中猴子的数值最高，郑州的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00094",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            94
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            94
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00570",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00570.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00570.json",
+    "vlm_description": "这是一个折线图chart_00570。 1月的数值是72。 2月的数值是49。 3月的数值是96。 4月的数值是99。 5月的数值是21。 6月的数值是70。 整体呈上升趋势。 最高点在4月，数值为99。 最低点在5月，数值为21。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00441",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00441.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00441.json",
+    "vlm_description": "这是一个柱状图chart_00441。 桃子的数值是44。 大象的数值是42。 济南的数值是52。 土豆的数值是26。 天津的数值是14。 鸟的数值是98。 其中鸟的数值最高，天津的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00441",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            441
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            441
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00865",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00865.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00865.json",
+    "vlm_description": "这是一个折线图chart_00865。 八月的数值是67。 十月的数值是24。 四月的数值是38。 九月的数值是97。 十二月的数值是32。 一月的数值是68。 七月的数值是88。 三月的数值是30。 整体呈下降趋势。 最高点在九月，数值为97。 最低点在十月，数值为24。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00564",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00564.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00564.json",
+    "vlm_description": "这是一个折线图chart_00564。 1月的数值是44。 2月的数值是22。 3月的数值是88。 4月的数值是98。 5月的数值是52。 6月的数值是91。 7月的数值是78。 8月的数值是20。 9月的数值是74。 10月的数值是26。 11月的数值是61。 整体呈上升趋势。 最高点在4月，数值为98。 最低点在8月，数值为20。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00645",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00645.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00645.json",
+    "vlm_description": "这是一个折线图chart_00645。 十一月的数值是88。 七月的数值是43。 五月的数值是71。 三月的数值是22。 二月的数值是70。 九月的数值是91。 一月的数值是88。 整体呈下降趋势。 最高点在九月，数值为91。 最低点在三月，数值为22。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01328",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01328.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01328.json",
+    "vlm_description": "这是一个表格数据chart_01328。 表格包含以下列：项目, 黄瓜, 洗衣机, 总计。 狮子的相关数据是15。 西安的相关数据是99。 大象的相关数据是29。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01328",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1328
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1328
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00335",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00335.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00335.json",
+    "vlm_description": "这是一个柱状图chart_00335。 老虎的数值是58。 猴子的数值是40。 茄子的数值是43。 白菜的数值是20。 青岛的数值是64。 大连的数值是90。 苏州的数值是40。 兔子的数值是76。 其中大连的数值最高，白菜的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00335",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            335
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            335
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01288",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01288.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01288.json",
+    "vlm_description": "这是一个表格数据chart_01288。 表格包含以下列：项目, 草莓, 芒果, 总计。 熊猫的相关数据是27。 老虎的相关数据是70。 济南的相关数据是30。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01288",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1288
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1288
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00408",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00408.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00408.json",
+    "vlm_description": "这是一个柱状图chart_00408。 葡萄的数值是100。 鱼的数值是81。 汽车的数值是55。 成都的数值是24。 服装的数值是46。 苹果的数值是13。 其中葡萄的数值最高，苹果的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01403",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01403.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01403.json",
+    "vlm_description": "这是一个表格数据chart_01403。 表格包含以下列：项目, 白菜, 洗衣机, 总计。 鱼的相关数据是59。 郑州的相关数据是46。 鱼的相关数据是49。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01403",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1403
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1403
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00024",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00024.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00024.json",
+    "vlm_description": "这是一个柱状图chart_00024。 大连的数值是46。 成都的数值是87。 梨的数值是36。 洋葱的数值是45。 其中成都的数值最高，梨的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00024",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            24
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            24
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00066",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00066.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00066.json",
+    "vlm_description": "这是一个柱状图chart_00066。 兔子的数值是13。 郑州的数值是26。 手机的数值是74。 电视的数值是85。 苏州的数值是52。 梨的数值是22。 上海的数值是66。 其中电视的数值最高，兔子的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00066",
+        "ground_truth": true,
+        "details": {
+          "extracted_numbers": [
+            66
+          ],
+          "verified_numbers": [
+            66
+          ],
+          "unverified_numbers": [],
+          "total_numbers": 1,
+          "verified_count": 1,
+          "unverified_count": 0
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01150",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01150.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01150.json",
+    "vlm_description": "这是一个表格数据chart_01150。 表格包含以下列：项目, 西红柿, 空调, 总计。 鱼的相关数据是15。 鸟的相关数据是22。 鱼的相关数据是26。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01150",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1150
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1150
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01491",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01491.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01491.json",
+    "vlm_description": "这是一个表格数据chart_01491。 表格包含以下列：项目, 橙子, 萝卜, 总计。 广州的相关数据是30。 狗的相关数据是43。 鸟的相关数据是57。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01491",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1491
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1491
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00728",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00728.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00728.json",
+    "vlm_description": "这是一个折线图chart_00728。 十一月的数值是43。 九月的数值是71。 六月的数值是51。 七月的数值是29。 一月的数值是47。 八月的数值是67。 二月的数值是67。 三月的数值是38。 四月的数值是60。 整体呈上升趋势。 最高点在八月，数值为67。 最低点在七月，数值为29。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00477",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00477.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00477.json",
+    "vlm_description": "这是一个柱状图chart_00477。 洗衣机的数值是70。 西瓜的数值是106。 汽车的数值是57。 冰箱的数值是42。 电脑的数值是11。 其中西瓜的数值最高，电脑的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00477",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            477
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            477
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01207",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01207.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01207.json",
+    "vlm_description": "这是一个表格数据chart_01207。 表格包含以下列：项目, 草莓, 菠菜, 总计。 成都的相关数据是64。 成都的相关数据是17。 西安的相关数据是95。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01207",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1207
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1207
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01104",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01104.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01104.json",
+    "vlm_description": "这是一个表格数据chart_01104。 表格包含以下列：项目, 汽车, 书籍, 总计。 深圳的相关数据是95。 南京的相关数据是92。 青岛的相关数据是10。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01104",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1104
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1104
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00593",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00593.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00593.json",
+    "vlm_description": "这是一个折线图chart_00593。 七月的数值是23。 五月的数值是81。 四月的数值是27。 十月的数值是67。 十一月的数值是86。 六月的数值是21。 八月的数值是41。 整体呈上升趋势。 最高点在十一月，数值为86。 最低点在六月，数值为21。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00097",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00097.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00097.json",
+    "vlm_description": "这是一个柱状图chart_00097。 土豆的数值是93。 萝卜的数值是19。 南京的数值是32。 梨的数值是90。 哈尔滨的数值是73。 空调的数值是69。 其中土豆的数值最高，萝卜的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01035",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01035.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01035.json",
+    "vlm_description": "这是一个表格数据chart_01035。 表格包含以下列：项目, 西红柿, 葡萄, 总计。 大连的相关数据是15。 武汉的相关数据是28。 杭州的相关数据是102。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01035",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1035
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1035
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00506",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00506.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00506.json",
+    "vlm_description": "这是一个折线图chart_00506。 十一月的数值是47。 四月的数值是67。 七月的数值是94。 三月的数值是78。 十月的数值是30。 八月的数值是19。 二月的数值是80。 一月的数值是45。 九月的数值是61。 六月的数值是70。 五月的数值是47。 十二月的数值是69。 整体呈上升趋势。 最高点在七月，数值为94。 最低点在八月，数值为21。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_00506",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            506
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            506
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00162",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00162.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00162.json",
+    "vlm_description": "这是一个柱状图chart_00162。 济南的数值是55。 苏州的数值是34。 大连的数值是27。 上海的数值是71。 大象的数值是72。 白菜的数值是33。 服装的数值是79。 其中上海的数值最高，大连的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00162",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            162
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            162
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01386",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01386.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01386.json",
+    "vlm_description": "这是一个表格数据chart_01386。 表格包含以下列：项目, 黄瓜, 冰箱, 总计。 兔子的相关数据是25。 狗的相关数据是91。 青岛的相关数据是51。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01386",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1386
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1386
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01420",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01420.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01420.json",
+    "vlm_description": "这是一个表格数据chart_01420。 表格包含以下列：项目, 草莓, 葡萄, 总计。 熊猫的相关数据是14。 郑州的相关数据是27。 上海的相关数据是60。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01420",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1420
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1420
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01355",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01355.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01355.json",
+    "vlm_description": "这是一个表格数据chart_01355。 表格包含以下列：项目, 汽车, 洋葱, 总计。 重庆的相关数据是25。 大连的相关数据是51。 北京的相关数据是94。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01355",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1355
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1355
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01248",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01248.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01248.json",
+    "vlm_description": "这是一个表格数据chart_01248。 表格包含以下列：项目, 服装, 草莓, 总计。 苏州的相关数据是45。 青岛的相关数据是27。 深圳的相关数据是84。 共有4行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01248",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1248
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1248
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00811",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00811.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00811.json",
+    "vlm_description": "这是一个折线图chart_00811。 1月的数值是35。 2月的数值是76。 3月的数值是75。 4月的数值是83。 5月的数值是53。 6月的数值是31。 7月的数值是42。 8月的数值是55。 9月的数值是34。 10月的数值是65。 11月的数值是30。 整体呈下降趋势。 最高点在4月，数值为83。 最低点在11月，数值为30。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01343",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01343.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01343.json",
+    "vlm_description": "这是一个表格数据chart_01343。 表格包含以下列：项目, 书籍, 黄瓜, 总计。 沈阳的相关数据是67。 哈尔滨的相关数据是65。 猫的相关数据是51。 共有5行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01343",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1343
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1343
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01023",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01023.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01023.json",
+    "vlm_description": "这是一个表格数据chart_01023。 表格包含以下列：项目, 萝卜, 冰箱, 总计。 长沙的相关数据是98。 西安的相关数据是91。 沈阳的相关数据是29。 共有8行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01023",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1023
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1023
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01233",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01233.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01233.json",
+    "vlm_description": "这是一个表格数据chart_01233。 表格包含以下列：项目, 服装, 土豆, 总计。 猴子的相关数据是87。 青岛的相关数据是87。 狗的相关数据是18。 共有7行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01233",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1233
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1233
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_01496",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\table\\chart_01496.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_01496.json",
+    "vlm_description": "这是一个表格数据chart_01496。 表格包含以下列：项目, 青椒, 菠菜, 总计。 青岛的相关数据是48。 杭州的相关数据是40。 老虎的相关数据是44。 共有6行数据。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个表格数据chart_01496",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            1496
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            1496
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00748",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00748.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00748.json",
+    "vlm_description": "这是一个折线图chart_00748。 1月的数值是96。 2月的数值是85。 3月的数值是34。 4月的数值是54。 5月的数值是86。 6月的数值是24。 7月的数值是38。 8月的数值是72。 整体呈下降趋势。 最高点在1月，数值为96。 最低点在6月，数值为22。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00192",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00192.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00192.json",
+    "vlm_description": "这是一个柱状图chart_00192。 哈尔滨的数值是45。 手机的数值是93。 熊猫的数值是26。 书籍的数值是99。 葡萄的数值是26。 其中书籍的数值最高，熊猫的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00192",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            192
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            192
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00690",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\line\\chart_00690.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00690.json",
+    "vlm_description": "这是一个折线图chart_00690。 二月的数值是66。 十月的数值是91。 七月的数值是83。 九月的数值是37。 四月的数值是34。 六月的数值是27。 一月的数值是64。 十二月的数值是66。 三月的数值是37。 十一月的数值是57。 八月的数值是78。 五月的数值是38。 整体呈下降趋势。 最高点在十月，数值为91。 最低点在六月，数值为27。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个折线图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00448",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00448.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00448.json",
+    "vlm_description": "这是一个柱状图chart_00448。 成都的数值是27。 青岛的数值是55。 长春的数值是40。 西红柿的数值是79。 其中西红柿的数值最高，成都的数值最低。",
+    "ground_truth": false,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_00448",
+        "ground_truth": false,
+        "details": {
+          "extracted_numbers": [
+            448
+          ],
+          "verified_numbers": [],
+          "unverified_numbers": [
+            448
+          ],
+          "total_numbers": 1,
+          "verified_count": 0,
+          "unverified_count": 1
+        }
+      }
+    ]
+  },
+  {
+    "chart_id": "chart_00351",
+    "image_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\charts\\bar\\chart_00351.png",
+    "metadata_path": "F:\\aiproject\\FactAlign-VL 视觉事实核查器\\data\\metadata\\chart_00351.json",
+    "vlm_description": "这是一个柱状图chart_00351。 成都的数值是100。 大连的数值是17。 自行车的数值是88。 熊猫的数值是44。 电视的数值是77。 鱼的数值是15。 其中成都的数值最高，鱼的数值最低。",
+    "ground_truth": true,
+    "atomic_facts": [
+      {
+        "fact": "这是一个柱状图chart_",
+        "ground_truth": true,
+        "details": {
+          "reason": "no_numbers",
+          "extracted_numbers": [],
+          "verified": []
+        }
+      }
+    ]
+  }
+]
